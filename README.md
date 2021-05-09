@@ -1,5 +1,22 @@
 
 # Desafio Final Imersão Dados
+**Olá bem vindos**
+
+Esse repositório foi construído como projeto final para a terceira imersão de dados da Alura. Nela trabalhamos em base de dados sobre testes de drogras.
+
+##Base de Dados
+
+O projeto possui duas base de dados: 
+- A primeira contêm dados dos expressões genéticas e da viabilidade celular além do tempo e dose de cada experimento.
+- Já a segunda possui as informações de quais mecanismos de ação foi ativo ou não em cada experimento.
+
+##Hipóteses
+
+Em posse das bases foram apresentadas algumas hipóteses:
+- Se selecionado um composto é possível identificar quais genes tiveram aumento ou diminuição em suas expressões?
+- Quais componentes celulares foram afetados dado um composto.
+- É possível identificar que mecanismos de ação foram ativados dado um composto?
+- A dose e o tempo influenciam nas expressões genéticas e componentes celulares? 
 
 **Olá Cientistas!**
 
