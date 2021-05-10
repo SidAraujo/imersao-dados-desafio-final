@@ -2,7 +2,7 @@
 # Desafio Final Imersão Dados
 **Olá bem vindos**
 
-Esse repositório foi construído como projeto final para a terceira imersão de dados da Alura. Nela trabalhamos em uma base de dados que possui informações sobre experimentos com compostos. Descrevendo quais compostos foram utilizados, as expressões genéticas e viabilidade celular.
+Esse repositório foi construído como projeto final para a terceira imersão de dados da Alura. Nela trabalhamos em uma base de dados que possui informações sobre experimentos com compostos e seus mecanismos de ação.
 
 Realizamos um estudo inicial sobre os dados que foram utilizados e análises para testarmos nossas hipóteses.
 
